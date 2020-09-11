@@ -20,5 +20,5 @@ def extract_information(li):
     print("Done")
 
 if __name__ == '__main__':
-    path = ['C:\\Users\\Azmain\\Downloads\\mindset.pdf','C:\\Users\\Azmain\\Downloads\\Tff.pdf','C:\\Users\\Azmain\\Downloads\\prejudice.pdf','C:\\Users\\Azmain\\Downloads\\False.pdf','C:\\Users\\Azmain\\Downloads\\crime.pdf']
+    path = [] # insert path of your PDFs
     extract_information(path)
